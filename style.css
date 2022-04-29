@@ -182,7 +182,10 @@ form{
     margin: 0 auto;
     max-width: 900px;
 }
-
+#ressources h2{
+    padding: 10px 0px 100px 0;
+   
+}
 input, textarea, button {
     border: none;
     width: 55%;
